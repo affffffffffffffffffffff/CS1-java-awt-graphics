@@ -1,4 +1,4 @@
-# java-projects-awt-graphics
+# java-awt-graphics
 Hosts all the canvas Java-based projects for 4th Period Advanced CS1 2022-2023 with Armand Ramones. Drawing-only; doesn't include any basic terminal Java or javafx.
 * This code is provided as-is with no documentation. 
 * Code provided in good faith. 
