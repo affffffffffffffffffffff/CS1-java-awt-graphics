@@ -22,17 +22,6 @@ Hosts all the canvas Java-based projects for 4th Period Advanced CS1 2022-2023 w
 </details>
 <details><summary>
 
-### Cycle 4: 9 January 2023 - 24 February 2023
-
-</summary>
-
-```
-null
-```
-
-</details>
-<details><summary>
-
 ### Cycle 5: 27 February 2023 - 14 April 2023
 
 </summary>
